@@ -167,7 +167,7 @@ rename(os.path.join('DAVIS', 'JPEGImages', '480p', seq_name))
 # Train parameters
 parent_path = os.path.join('models', 'OSVOS_parent', 'OSVOS_parent.ckpt-50000')
 logs_path = os.path.join('models', seq_name)
-max_training_iters = 80
+max_training_iters = 200
 
 # Define Dataset
 test_frames = sorted(os.listdir(os.path.join('DAVIS', 'JPEGImages', '480p', seq_name)))
