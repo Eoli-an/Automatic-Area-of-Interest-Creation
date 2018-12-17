@@ -7,6 +7,13 @@ This file is part of the OSVOS paper presented in:
     One-Shot Video Object Segmentation
     CVPR 2017
 Please consider citing the paper if you use this code.
+
+@Inproceedings{Cae+17,
+  Title          = {One-Shot Video Object Segmentation},
+  Author         = {S. Caelles and K.K. Maninis and J. Pont-Tuset and L. Leal-Taix\'e and D. Cremers and L. {Van Gool}},
+  Booktitle      = {Computer Vision and Pattern Recognition (CVPR)},
+  Year           = {2017}
+}
 """
 
 
